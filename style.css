@@ -83,5 +83,8 @@ center{
     border-radius: 10px;
     background-image: url(website-background.jpg);
     text-align: left;
-   
+}
+img{
+    height: 70;
+    width: 70;
 }
